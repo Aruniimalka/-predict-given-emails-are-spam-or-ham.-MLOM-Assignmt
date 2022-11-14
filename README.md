@@ -1,1 +1,1 @@
-# -predict-given-five-emails-are-spam-or-ham.-MLOM-Assignmt
+# -predict-given-emails-are-spam-or-ham.-MLOM-Assignmt
